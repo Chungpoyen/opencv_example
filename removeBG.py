@@ -1,4 +1,5 @@
 #照片去背
+#只能在colab跑
 
 from rembg import remove
 from PIL import Image
